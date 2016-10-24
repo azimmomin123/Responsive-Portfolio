@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"pading",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text",
+				"textbox"
+			],
+			[
+				"Padding",
+				"padding-top"
+			],
+			[
+				"bottom",
+				"border-bottom"
+			],
+			[
+				"float",
+				"floatLeft"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"H",
+				"height"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"Top",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"center",
+				"centered"
+			],
+			[
+				"big",
+				"big"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/AzimMomin/Desktop/CodingBootCamp/October_20_2016/Bootstrap/bootstrap.html",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Homework-1/Basic-Portfolio/index.html",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Homework-1/Basic-Portfolio/assets/css/style.css",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Homework-1/HW-Wireframe/composer.json",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Homework-1/HW-Wireframe/index.php",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Homework-1/HW-Wireframe/style.css",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Homework-1/HW-Wireframe/index.html",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/October_20_2016/Buttons/button.html",
+		"/Users/AzimMomin/Downloads/BootstrapPowered.html.html",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/October_20_2016/Buttons/style.css",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/October_20_2016/style.css",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/October_20_2016/HTMLTemplate.html",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Basic-Portfolio/index.php",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Basic-Portfolio/composer.json",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Basic-Portfolio/portfolio.html",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Basic-Portfolio/contact.html",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Basic-Portfolio/index.html",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Basic-Portfolio/assets/css/style.css",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/Basic-Portfolio/assets/css/reset.css",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/StudentBio/Bio.html",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/October_15_2016/Float_Activity/floats.css",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/October_15_2016/Float_Activity/floats.html",
+		"/Users/AzimMomin/Desktop/RelativePaths_UNSOLVED-Student/RelativePaths_WorkingExample/HTML-Bio-withCSS.html",
+		"/Users/AzimMomin/Desktop/RelativePaths_UNSOLVED-Student/RelativePaths_WorkingExample/assets/style.css",
+		"/Users/AzimMomin/Desktop/RelativePaths_UNSOLVED-Student/RelativePaths_4/style.css",
+		"/Users/AzimMomin/Desktop/RelativePaths_UNSOLVED-Student/RelativePaths_4/HTML/HTML_BIO.html",
+		"/Users/AzimMomin/Desktop/RelativePaths_UNSOLVED-Student/RelativePaths_3/HTML_BIO.html",
+		"/Users/AzimMomin/Desktop/RelativePaths_UNSOLVED-Student/RelativePaths_3/assets/style/style.css",
+		"/Users/AzimMomin/Desktop/RelativePaths_UNSOLVED-Student/RelativePaths_2/HTML_BIO.html",
+		"/Users/AzimMomin/Desktop/RelativePaths_UNSOLVED-Student/RelativePaths_2/assets/style.css",
+		"/Users/AzimMomin/Desktop/RelativePaths_UNSOLVED-Student/RelativePaths_1/HTML_BIO.html",
+		"/Users/AzimMomin/Desktop/RelativePaths_UNSOLVED-Student/RelativePaths_1/style.css",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/StudentBio/css/style.css",
+		"/Users/AzimMomin/Desktop/CodingBootCamp/StudentBio/Bio.css",
+		"/Users/AzimMomin/Desktop/first_day_stuff/htmlassignment.html",
+		"/Users/AzimMomin/Desktop/first_day_stuff/myfirsthtml.html",
+		"/Users/AzimMomin/Google Drive/PREWORK_AFH/Module-10/index.html",
+		"/Users/AzimMomin/Google Drive/PREWORK_AFH/Module-10/javascript.js",
+		"/Users/AzimMomin/Google Drive/PREWORK_AFH/Module-8/FANPAGE.HTML",
+		"/Users/AzimMomin/Google Drive/PREWORK_AFH/Module-9/style.css",
+		"/Users/AzimMomin/Google Drive/PREWORK_AFH/Module-9/index.html",
+		"/Users/AzimMomin/Downloads/Broken_and_Working_Code/WorkingCode/GrumpyCat.html",
+		"/Users/AzimMomin/Downloads/Broken_and_Working_Code/WorkingCode/style.css",
+		"/Users/AzimMomin/Downloads/Broken_and_Working_Code/WorkingCode/logic.js",
+		"/Users/AzimMomin/Downloads/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+		"/Users/AzimMomin/Downloads/Broken_and_Working_Code/BrokenCode/style.css",
+		"/Users/AzimMomin/Downloads/Broken_and_Working_Code/BrokenCode/logic.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"30",
+			"eee",
+			"button",
+			"factButton"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/first_day_stuff/myfirsthtml.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
